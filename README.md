@@ -10,6 +10,7 @@ https://newstroyblog.tistory.com/449
 
 # 사용법
 1.openai key를 발급하여 client변수에 입력합니다.
+
 2.gr.state 함수의 content에 GPT prompt를 입력합니다.
 
 # 실행
