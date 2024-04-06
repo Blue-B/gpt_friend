@@ -8,7 +8,7 @@
 # 변경사항
 https://newstroyblog.tistory.com/447
 
-https://newstroyblog.tistory.com/449  - 입력한 텍스트에 따라 작동하는 사용자 정의함수 추가
+https://newstroyblog.tistory.com/449  - 입력한 텍스트에 따라 작동하는 사용자 정의함수 추가(특징 2번째 시연참고)
 
 # 패키지 설치
 ```pip install requirements```
