@@ -1,4 +1,4 @@
-# gpt_friend
+# gpt_friend 특징
 ![다운로드](https://github.com/Blue-B/gpt_friend/assets/55532956/d5025a96-6c1e-4f05-873d-1398dd7607b9)
 
 # 변경사항
