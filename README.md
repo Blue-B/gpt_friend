@@ -1,7 +1,7 @@
 # gpt_friend
 ![다운로드](https://github.com/Blue-B/gpt_friend/assets/55532956/d5025a96-6c1e-4f05-873d-1398dd7607b9)
 
-# 블로그 게시물
+# 변경사항
 https://newstroyblog.tistory.com/447
 
 https://newstroyblog.tistory.com/449  - 입력한 텍스트에 따라 작동하는 사용자 정의함수 추가
