@@ -4,7 +4,7 @@
 ### 맞춤형 기능 설정가능(예: 메모장)
 ![GIF 2024-04-06 오후 7-28-25](https://github.com/Blue-B/gpt_friend/assets/55532956/95f123b3-f2b2-4e47-b158-e9353b49cb5d)
 
-**# 실행방법**
+# 실행방법
 https://github.com/Blue-B/gpt_friend/releases
 최신 릴리즈파일을 받아 즐겨보세요
 
