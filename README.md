@@ -6,7 +6,7 @@
 <br/>
 
 # 실행방법
-[최신 릴리즈파일](https://github.com/Blue-B/gpt_friend/releases)을 받아 즐겨보세요
+[최신 릴리즈파일](https://github.com/Blue-B/gpt_friend/releases)을 받아 사용하세요 (사용법 포함)
 <br/><br/>
 
 # 업데이트 내역
@@ -21,11 +21,6 @@ https://newstroyblog.tistory.com/476 - AI의 응답을 음성으로도 들을 �
 
 # 패키지 설치
 ```pip install requirements```
-
-~~사용법~~
-~~1.openai key를 발급하여 client변수에 입력합니다.~~
-
-~~2.gr.state 함수의 content에 GPT prompt를 입력합니다.~~
 
 
 
